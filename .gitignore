@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Secrets & credentials
+.env
+connections.json
+
+# Runtime data
+query_history.json
+error_feedback.json
+
+# Generated output
+Generated Files/
+
+# IDE / tools
+.claude/
+.dbeaver_projects/
+
+# Temp files
+*.tmp
+sql_errors*.txt
